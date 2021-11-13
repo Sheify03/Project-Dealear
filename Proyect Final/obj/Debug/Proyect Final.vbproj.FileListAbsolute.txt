@@ -1,0 +1,180 @@
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe.config
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\bin\Debug\Proyect Final.pdb
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\bin\Debug\Proyect Final.xml
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Form1.resources
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Resources.resources
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.GenerateResource.Cache
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.exe
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.xml
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.pdb
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmLogin.resources
+c:\users\toshiba mt\documents\visual studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmMENU.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmUsuario.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmClientes.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmEmpleados.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmProveedores.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmSuplidores.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmInversionista.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmVehiculos.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_pagar.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentasincobrables.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_cobrar.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmACerca.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\bin\Debug\stdole.dll
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteUsuario.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleado.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleados1.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteSuplidores.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteProveedores.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteVehiculo.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteInversionista.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_cobrar.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_pagar.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuentasIncobrables.resources
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbprojAssemblyReference.cache
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba MT\Documents\Visual Studio 2015\Projects\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CopyComplete
+E:\desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe.config
+E:\desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe
+E:\desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.pdb
+E:\desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.xml
+E:\desarrollo\Proyect Final\Proyect Final\bin\Debug\stdole.dll
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbprojAssemblyReference.cache
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Form1.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmACerca.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmClientes.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentasincobrables.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_cobrar.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_pagar.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmEmpleados.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmInversionista.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmLogin.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmMENU.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmProveedores.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleado.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuentasIncobrables.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_cobrar.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_pagar.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleados1.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteInversionista.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteProveedores.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteSuplidores.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteUsuario.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteVehiculo.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmSuplidores.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmUsuario.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmVehiculos.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Resources.resources
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.GenerateResource.cache
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CoreCompileInputs.cache
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CopyComplete
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.exe
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.xml
+E:\desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.pdb
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe.config
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\bin\Debug\Proyect Final.pdb
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\bin\Debug\Proyect Final.xml
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\bin\Debug\stdole.dll
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbprojAssemblyReference.cache
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Form1.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmACerca.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmClientes.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentasincobrables.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_cobrar.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_pagar.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmEmpleados.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmInversionista.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmLogin.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmMENU.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmProveedores.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleado.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuentasIncobrables.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_cobrar.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_pagar.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleados1.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteInversionista.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteProveedores.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteSuplidores.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteUsuario.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteVehiculo.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmSuplidores.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmUsuario.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmVehiculos.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Resources.resources
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.GenerateResource.cache
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CopyComplete
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.exe
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.xml
+C:\Users\Toshiba MT\Desktop\Proyect Final\Proyect Final\obj\Debug\Proyect Final.pdb
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbprojAssemblyReference.cache
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Form1.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmACerca.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmClientes.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentasincobrables.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_cobrar.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_pagar.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmEmpleados.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmInversionista.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmLogin.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmMENU.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmProveedores.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleado.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuentasIncobrables.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_cobrar.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_pagar.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleados1.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteInversionista.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteProveedores.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteSuplidores.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteUsuario.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteVehiculo.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmSuplidores.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmUsuario.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmVehiculos.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Resources.resources
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.GenerateResource.cache
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.CoreCompileInputs.cache
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.exe
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.xml
+D:\Desarrollo\Proyect Final\Proyect Final\obj\Debug\Proyect Final.pdb
+D:\Desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe.config
+D:\Desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe
+D:\Desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.pdb
+D:\Desarrollo\Proyect Final\Proyect Final\bin\Debug\Proyect Final.xml
+D:\Universidad\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe.config
+D:\Universidad\Proyect Final\Proyect Final\bin\Debug\Proyect Final.exe
+D:\Universidad\Proyect Final\Proyect Final\bin\Debug\Proyect Final.pdb
+D:\Universidad\Proyect Final\Proyect Final\bin\Debug\Proyect Final.xml
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbprojAssemblyReference.cache
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Form1.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmACerca.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmClientes.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentasincobrables.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_cobrar.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmCuentas_pagar.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmEmpleados.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmInversionista.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmLogin.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmMENU.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmProveedores.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleado.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuentasIncobrables.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_cobrar.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteCuenta_pagar.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteEmpleados1.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteInversionista.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteProveedores.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteSuplidores.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteUsuario.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmReporteVehiculo.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmSuplidores.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmUsuario.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.FrmVehiculos.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect_Final.Resources.resources
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect Final.vbproj.GenerateResource.cache
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect Final.exe
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect Final.xml
+D:\Universidad\Proyect Final\Proyect Final\obj\Debug\Proyect Final.pdb

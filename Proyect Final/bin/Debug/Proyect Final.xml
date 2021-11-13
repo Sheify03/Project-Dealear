@@ -1,0 +1,196 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyect Final
+</name>
+</assembly>
+<members>
+<member name="T:Proyect_Final.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources._245px_Microsoft_Account_svg">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources._80cfa62cfd5540505e5975bd53cd241e">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources._96">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.adhesivo_bmw_logo_bmw_efecto_3d">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.audi">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.Audi_logo_86AF341807_seeklogo_com">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.bmw">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.Captura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.Captura1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.Carros_para_dibujar___">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.chicago_2519635_960_720">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.faf">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.fondo_de_login">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.fondo_sitio4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.kjjkk">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.kjjkk1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.kjjkk2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.kjjkk3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.Mercedes_Benz_free_logo_svg">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.segunda_opcion_login">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyect_Final.My.Resources.Resources.user_icon_png_pnglogocom">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSet.TBL_USUARIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSet.TBL_USUARIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSet.TBL_USUARIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSetTableAdapters.TBL_USUARIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyect_Final.proyecto2018DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyect_Final.proyecto2018DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyect_Final.proyecto2018DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.UpdateAll(Proyect_Final.proyecto2018DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Proyect_Final.proyecto2018DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
